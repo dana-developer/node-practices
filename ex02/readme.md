@@ -10,7 +10,6 @@ $ npm init -y
 
 ```
 
-
 2. 패키지 설치
 
 ```sh
@@ -22,13 +21,12 @@ $ npx gulp --version
 
 ```
 
-
 3. 패키지 삭제
 
 ```sh
-   
+
 $ npm un ejs          [지역]
 $ npm un nodemon      [지역]
-$ npm un -g gulp      [전역]       
+$ npm un -g gulp      [전역]
 
 ```
